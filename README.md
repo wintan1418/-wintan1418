@@ -62,5 +62,5 @@
   </tbody>
 </table>
 
-[![Popoola Gracegithub stats](https://github-readme-stats.vercel.app/api?username=wintan1418&sshow_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/wintan1418/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wintan1418&show_icons=true&theme=radical&layout=compact)](https://github.com/GraceOyiza/github-readme-stats)
+[![oluwadare juwongithub stats](https://github-readme-stats.vercel.app/api?username=wintan1418&sshow_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/wintan1418/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wintan1418&show_icons=true&theme=radical&layout=compact)](https://github.com/wintan1418/github-readme-stats)
